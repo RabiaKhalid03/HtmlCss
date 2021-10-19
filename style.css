@@ -1,0 +1,208 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+/*.myid{
+
+
+	width: 100%;
+	height: 100vh;
+
+	color: yellow;
+	background-color: green;
+	background-image: url('chartSBA.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+.myid1{
+
+
+	width: 100%;
+	height: 100vh;
+
+	color: yellow;
+	background-color: green;
+	background-image: url('hart.png');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+	
+}
+p{
+	font-family: 'Righteous', cursive;
+	font-variant: small-caps;
+	font-size: 2em;
+	font-style: italic;
+	font-weight: lighter;
+}
+*/ 
+/*#textcss{
+	font-family: 'Righteous', cursive;
+	color: green;
+	letter-spacing: 5px;
+	word-spacing: 5px;
+	direction: ltr;
+	text-indent: 10px;
+	text-align: left;
+	text-transform: lowercase;
+
+
+} 
+a:link{
+	color: red;
+
+}
+a:visited{
+	color: blue;
+}
+a:hover{
+	color: yellow;
+}
+a:active{
+	color: black;
+}
+*/
+
+/*#bordercss{
+	width:500px;
+	height: 700px;
+	background-color: green;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+ul{
+	list-style-type: square;
+}
+
+ol{
+	list-style-type: upper-roman;
+}
+
+
+.boxmodel{
+	width: 300px;
+	height: 300px;
+	background-color: blue;
+}
+
+input{
+
+	padding: 5px;
+	margin: 20px;
+}
+*/
+/*p{
+	border: 1px solid red;
+	height: 100px;
+	width: 300px;
+    overflow: scroll;
+
+}*/
+
+
+.father{
+	width:400px ;
+	height: 600px;
+	background-color: red;
+	position: relative;
+
+}
+
+.child1{
+
+		width:100px ;
+	height: 100px;
+	background-color: grey;
+	position: absolute;
+	left: 0;
+
+
+}
+.child2{
+
+		width:100px ;
+	height: 100px;
+	background-color: green;
+	position: absolute;
+	bottom: 0;
+
+}
+.child3{
+
+		width:100px ;
+	height: 100px;
+	background-color: yellow;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+
+
+}
+
+.child4{
+
+		width:100px ;
+	height:100px;
+	background-color: blue;
+	position: absolute;
+	right: 0;
+
+
+}
+
+.child5{
+
+		width:100px ;
+	height:100px;
+	background-color: deeppink;
+	position: absolute;
+	bottom: 0;
+	left: 100px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
